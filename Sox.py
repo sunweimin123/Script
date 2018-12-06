@@ -28,4 +28,4 @@ class Sock:
 fileName = "radio"
 soc = Sock(fileName)
 soc.takeCommand()
-print "dfsfsf"
+print "dfsfsf "
